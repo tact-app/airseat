@@ -1,0 +1,4 @@
+GET {{toby-host}}/v2/states
+X-Auth-Token: {{toby-token}}
+
+###
